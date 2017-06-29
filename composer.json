@@ -1,5 +1,5 @@
 {
-    "name": "magetest/magento-phpspec-extension",
+    "name": "daniel-ness/magento-phpspec-extension",
     "description": "Magento PHPSpec extension",
     "keywords": ["BDD", "SpecBDD", "TDD", "spec", "specification", "tests", "testing"],
     "type": "library",
